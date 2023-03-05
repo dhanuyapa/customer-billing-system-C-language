@@ -1,0 +1,2 @@
+Product NO 	 Product Price 	 Quantity 	 Amount 	 Discount 	 Gross Amount 
+11 		 100.000000 	 2 		 200.000000 	 0.000000 	 200.000000 	 

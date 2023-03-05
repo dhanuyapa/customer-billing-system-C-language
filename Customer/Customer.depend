@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1675666018 source:c:\users\-dhanujaya-\desktop\customer\bill.c
+	<stdio.h>
+	<stdlib.h>
+
+1675666018 source:c:\users\-dhanujaya-\desktop\customer\create.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1675666018 source:c:\users\-dhanujaya-\desktop\customer\display.c
+	<stdio.h>
+	<stdlib.h>
+
+1675666018 source:c:\users\-dhanujaya-\desktop\customer\edit.c
+	<stdio.h>
+	<stdlib.h>
+
+1675666018 source:c:\users\-dhanujaya-\desktop\customer\invoice.c
+	<stdio.h>
+	<stdlib.h>
+
+1675666068 source:c:\users\-dhanujaya-\desktop\customer\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
